@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-https://github.com/balaji1233/MY_LLM_Projects.git
+https://github.com/balaji1233/MY_LLM_Projects-Q-A-Cbot.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
